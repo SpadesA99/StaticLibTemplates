@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StaticLibTemplates", "StaticLibTemplates\StaticLibTemplates.vcxproj", "{A80DB366-E70F-4CAD-ACF9-01103C81B3B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		DebugStatic|x64 = DebugStatic|x64
+		DebugStatic|x86 = DebugStatic|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+		ReleaseStatic|x64 = ReleaseStatic|x64
+		ReleaseStatic|x86 = ReleaseStatic|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A80DB366-E70F-4CAD-ACF9-01103C81B3B7}.Debug|x64.ActiveCfg = Debug|x64
+		{A80DB366-E70F-4CAD-ACF9-01103C81B3B7}.Debug|x64.Build.0 = Debug|x64
+		{A80DB366-E70F-4CAD-ACF9-01103C81B3B7}.Debug|x86.ActiveCfg = Debug|Win32
+		{A80DB366-E70F-4CAD-ACF9-01103C81B3B7}.Debug|x86.Build.0 = Debug|Win32
+		{A80DB366-E70F-4CAD-ACF9-01103C81B3B7}.DebugStatic|x64.ActiveCfg = DebugStatic|x64
+		{A80DB366-E70F-4CAD-ACF9-01103C81B3B7}.DebugStatic|x64.Build.0 = DebugStatic|x64
+		{A80DB366-E70F-4CAD-ACF9-01103C81B3B7}.DebugStatic|x86.ActiveCfg = DebugStatic|Win32
+		{A80DB366-E70F-4CAD-ACF9-01103C81B3B7}.DebugStatic|x86.Build.0 = DebugStatic|Win32
+		{A80DB366-E70F-4CAD-ACF9-01103C81B3B7}.Release|x64.ActiveCfg = Release|x64
+		{A80DB366-E70F-4CAD-ACF9-01103C81B3B7}.Release|x64.Build.0 = Release|x64
+		{A80DB366-E70F-4CAD-ACF9-01103C81B3B7}.Release|x86.ActiveCfg = Release|Win32
+		{A80DB366-E70F-4CAD-ACF9-01103C81B3B7}.Release|x86.Build.0 = Release|Win32
+		{A80DB366-E70F-4CAD-ACF9-01103C81B3B7}.ReleaseStatic|x64.ActiveCfg = ReleaseStatic|x64
+		{A80DB366-E70F-4CAD-ACF9-01103C81B3B7}.ReleaseStatic|x64.Build.0 = ReleaseStatic|x64
+		{A80DB366-E70F-4CAD-ACF9-01103C81B3B7}.ReleaseStatic|x86.ActiveCfg = ReleaseStatic|Win32
+		{A80DB366-E70F-4CAD-ACF9-01103C81B3B7}.ReleaseStatic|x86.Build.0 = ReleaseStatic|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58249A8D-149B-4173-AE69-A358BDF36EF3}
+	EndGlobalSection
+EndGlobal
